@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-off
+Begin Time: 2011-06-19 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest June Cook-off (COOK11) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+SINSUMQ | Sines Sum Queries
+ARITHPR | Longest Arithmetic Progressions
+DPOWPERM | D-Power Permutations
+KNIGHTMV | Correctness of Knight Move
+SUPERPLN | Super-plane

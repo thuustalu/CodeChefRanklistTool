@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-off 2018 Division 1
+Begin Time: 2018-03-18 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest March Cook-off 2018 Division 1 (COOK92A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MXPATH | Maximum Tree Path
+CO92SUBW | Chef Goes to the Cinema
+CO92REST | Chef Restores an Array
+CO92TREE | Chef Chooses a Subset
+CO92MATR | Chef Restores a Matrix

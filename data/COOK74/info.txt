@@ -1,0 +1,16 @@
+﻿Title: CodeChef September Cook-Off 2016
+Begin Time: 2016-09-18 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest September Cook-Off 2016 (COOK74) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 2146, top 2000 are shown.
+
+Enter problems in THIS order:
+TALAZY | Lazy Jem
+TAASEQ | The Lost Arithmetic Sequences
+TACNTSTR | Counting Strings
+TACTQUER | Shortest path queries
+TAPOINT | Find The Point

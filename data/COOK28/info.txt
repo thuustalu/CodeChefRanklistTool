@@ -1,0 +1,15 @@
+﻿Title: CodeChef November Cook-Off 2012
+Begin Time: 2012-11-18 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest November Cook-Off 2012 (COOK28) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+LEMAGIC | Little Elephant and Magic
+LELUCKYN | Little Elephant and Lucky Segment
+LEPAPER | Little Elephant and Sheet
+LEPERMUT | Little Elephant and Permutations
+LEDIV | Little Elephant and Divisors

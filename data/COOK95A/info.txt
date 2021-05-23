@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2018 Division 1
+Begin Time: 2018-06-17 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2018 Division 1 (COOK95A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MINIONS | Masha and Minions
+SONYASEG | Sonya and Segments
+DANYANUM | Danya and Numbers
+BTMNTREE | Batman and Tree
+GOODPERM | Good Permutations

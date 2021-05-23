@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Cook-Off 2015
+Begin Time: 2015-04-19 19:00:00
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off 2015 (COOK57) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+LFIVES | Lucky Fives
+AGENTS | Special Agents
+TDRIVER | Taxi Driver
+EQUALITY | Equality
+VCS | Version Control System

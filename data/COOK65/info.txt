@@ -1,0 +1,15 @@
+﻿Title: CodeChef December Cook-Off 2015
+Begin Time: 2015-12-20 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest December Cook-Off 2015 (COOK65) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CHEFARRP | Chef and Subarrays
+CHEFQUE | Chef and Queries
+CHEFKLCS | Chef and LCS
+CHEFTREE | Chef and Tree
+CHEFVEC | Chef and Vectors

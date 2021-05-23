@@ -1,0 +1,16 @@
+﻿Title: CodeChef August Cook-Off 2017
+Begin Time: 2017-08-20 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2017 (COOK85) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 3541, top 2000 are shown.
+
+Enter problems in THIS order:
+TRCNTCT | Tree Connectivity
+GAMSTICK | Game on Stick
+MTRXMOD | Matrix and Chef
+OBTTRNGL | Real obtuse
+ELEVSTRS | From heaven to earth

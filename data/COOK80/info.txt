@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-Off 2017
+Begin Time: 2017-03-19 18:00:00
+Length: 02:45:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest March Cook-Off 2017 (COOK80) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+RAINBOW | Rainbow Graph
+MEETUP | Meeting location
+CARDS777 | Yet Another Card Game
+INCXOR | Increasing Xor Sequence
+ROBOTG | Safe Robot

@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2019 Division 1
+Begin Time: 2019-06-23 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2019 Division 1 (COOK107A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+IDXSUM | Zawad and Index Sum
+SUBSETS | Nice Subsets
+SECRECP | The Secret Recipe
+ANTEATER | Ants and Anteaters
+SLUSH | Drink Slush

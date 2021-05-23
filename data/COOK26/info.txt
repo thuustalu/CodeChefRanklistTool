@@ -1,0 +1,15 @@
+﻿Title: CodeChef September Cook-Off 2012
+Begin Time: 2012-09-23 19:00:00
+Length: 03:15:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest September Cook-Off 2012 (COOK26) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+PTOSS | Pizza Tossing
+PPERM | Prime Permutations
+RRECIPE | Recipe Reconstruction
+CARVANS | Carvans
+COALSCAM | Coal Scam

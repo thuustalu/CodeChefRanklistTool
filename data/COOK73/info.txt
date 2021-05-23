@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-Off 2016
+Begin Time: 2016-08-21 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2016 (COOK73) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ALICE | Alice
+TWEED | Tweedle-Dee and Tweedle-Dum 
+MADHAT | Math Hatter
+MCKTUR | Mock Turtle
+QUEHEA | Queen of Hearts

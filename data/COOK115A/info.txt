@@ -1,0 +1,15 @@
+﻿Title: CodeChef February Cook-Off 2020 Division 1
+Begin Time: 2020-02-16 18:00:00
+Length: 1.18:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest February Cook-Off 2020 Division 1 (COOK115A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CHFDIV | Must Be Divisible
+CYCLCSUM | Maximum Subsequence Sum
+XORGM | XOR Game
+SUBMAXA | Sweetest Candy 
+PEPPERA | Chef and Pepperoni Pizza Again

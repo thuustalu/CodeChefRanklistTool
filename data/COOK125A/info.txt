@@ -1,0 +1,17 @@
+﻿Title: CodeChef December Cook-Off 2020 Division 1 
+Begin Time: 2020-12-21 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest December Cook-Off 2020 Division 1  (COOK125A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MYSAR | Mysterious Sequence
+SDSTRING | Self-Destructing Strings
+SEDPASS | Sed Passwords
+ANTUTREE | On Graphs, Probability Theory and Cakes
+CIRCHAOS | Circle of Chaos
+BASKETS | Carry All Fruits
+SWEETRQ | Sweet Rectangles

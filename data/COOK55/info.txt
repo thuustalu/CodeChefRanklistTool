@@ -1,0 +1,15 @@
+﻿Title: CodeChef February Cook-Off 2015
+Begin Time: 2015-02-15 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest February Cook-Off 2015 (COOK55) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+FOMBRO | Zombinatorial
+SUBARRAY | Parenthesis with Maximum Sum Subarray
+SPSHORT | Special Shortest Walk
+TRISQ | Fit Squares in Triangle
+WORLDCUP | Strategy for the World Cup

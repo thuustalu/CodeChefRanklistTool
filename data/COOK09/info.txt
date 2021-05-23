@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Cook-Off Challenge
+Begin Time: 2011-04-24 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off Challenge (COOK09) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MUFFINS2 | Frosting Cupcakes
+DIGITS2 | Product of Digits Again
+COOKOFF2 | The Grand Cook Off
+PRIMES2 | A Prime Conjecture
+MIME2 | Internet Media Types

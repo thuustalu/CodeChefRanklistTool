@@ -1,0 +1,16 @@
+﻿Title: CodeChef October Cook-Off 2014
+Begin Time: 2014-10-19 19:00:00
+Length: 02:40:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest October Cook-Off 2014 (COOK51) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 2110, top 2000 are shown.
+
+Enter problems in THIS order:
+ANUTDP | The Dirty Path
+ANUARM | The Army
+ANUWTA | Walk on the Axis
+ANUSFR | Substring and five rules
+ANUMLA | Mahesh and his lost array

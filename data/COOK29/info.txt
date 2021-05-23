@@ -1,0 +1,15 @@
+﻿Title: CodeChef December Cook-Off 2012
+Begin Time: 2012-12-23 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest December Cook-Off 2012 (COOK29) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+GRIDGAME | Game on a Grid
+EXGCD | Expected Greatest Common Divisor
+TREEROOT | Root of the Problem
+MUFFINS3 | Packaging Cupcakes
+DIRECTI | Reversing directions

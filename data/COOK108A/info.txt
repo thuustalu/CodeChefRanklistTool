@@ -1,0 +1,15 @@
+﻿Title: CodeChef July Cook-Off 2019 Division 1
+Begin Time: 2019-07-21 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2019 Division 1 (COOK108A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+BDGFT | Birthday Gift Again
+WARTLND | War in Treeland Again
+MNMXAR | Minimum and Maximum
+MGICMENU | Magical Menu
+EXPTPROD | Expected Product

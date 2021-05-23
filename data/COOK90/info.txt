@@ -1,0 +1,15 @@
+﻿Title: CodeChef January Cook-Off 2018
+Begin Time: 2018-01-21 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest January Cook-Off 2018 (COOK90) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+FARGRAPH | Far Graphs
+MULTHREE | Multiple of 3
+MAGA | Make array great again
+FINDA | Finding the matrix
+SURVIVE | Survive in ChocoLand

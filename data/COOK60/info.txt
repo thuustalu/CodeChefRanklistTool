@@ -1,0 +1,15 @@
+﻿Title: CodeChef July Cook-Off 2015
+Begin Time: 2015-07-19 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2015 (COOK60) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+COPS | Cops and the Thief Devu
+SUMPAIR | Maximize Disjoint Pair Sum
+KNODES | Path containing K Nodes
+COMB4SUM | Adding Special Sum
+SEQTOWER | Adding Up Sequences of Towers

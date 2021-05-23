@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Cook-Off 2017
+Begin Time: 2017-04-23 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off 2017 (COOK81) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+BESTTRI | Best Triangle
+XORSUMS | Bear and Xor of Sums
+SHOPTRIP | Bear and Shop Trip
+CANDY123 | Bear and Candies 123
+ABREPEAT | Bear and AB

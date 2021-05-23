@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-off 2013
+Begin Time: 2013-03-24 18:00:00
+Length: 02:37:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest March Cook-off 2013 (COOK32) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TAVISUAL | The Ball And Cups
+TAPALIN | Palindrome
+TABUS | Traveling Plan
+TASTR | Level Of Difference
+TABISHOP | Bishops

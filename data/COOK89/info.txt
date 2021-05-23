@@ -1,0 +1,15 @@
+﻿Title: CodeChef December Cook-Off 2017
+Begin Time: 2017-12-24 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 20
+Partial Score: Disable
+Description: CodeChef contest December Cook-Off 2017 (COOK89) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ISOARRAY | Chef and Isomorphic Array
+MINSUBAR | Minimum SubArray
+ROTPTS | Rotate Point
+BTAR | Beautiful Array
+FBMT | Football Match

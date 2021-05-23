@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Lunchtime 2021 Division 1
+Begin Time: 2021-04-30 17:00:00
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest April Lunchtime 2021 Division 1 (LTIME95A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+SPTREE | A Special Tree
+HKRMAN | Hackerman
+IMAT | Intersection Matrix
+XX | Magical Coins
+ALLGRAPH | Weird full graph

@@ -1,0 +1,16 @@
+﻿Title: CodeChef August Cook-Off 2020 Division 2
+Begin Time: 2020-08-23 19:00:02
+Length: 02:45:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2020 Division 2 (COOK121B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 6943, top 2000 are shown.
+
+Enter problems in THIS order:
+RBTREES | Red-blue Trees
+POLYREL | Polygon Relationship
+CHEFNWRK | Chef and Work
+CHEFHALF | Beautiful Subsequence
+KFOLD | K-Foldable String

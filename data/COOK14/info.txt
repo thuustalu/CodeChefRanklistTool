@@ -1,0 +1,15 @@
+﻿Title: CodeChef September Cook-off
+Begin Time: 2011-09-18 19:00:00
+Length: 02:31:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest September Cook-off (COOK14) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+LASTDIG | Last Digit Sum
+DIGROT | Digit Rotation
+TARPRACT | Target Practice
+YASEQ | Yet Another Sequence
+HOTEL | Hotel Bytelandia

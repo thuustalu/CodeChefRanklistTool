@@ -1,0 +1,16 @@
+﻿Title: CodeChef January Cook-Off 2021 Division 2
+Begin Time: 2021-01-24 18:00:02
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest January Cook-Off 2021 Division 2 (COOK126B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MEXSUB | Mex Subsequence
+NTCOL | Not Too Colourful
+PTUPLES | Prime Tuples
+MINIL | Maximise Islands
+ANDPREF | Prefix And
+EQLGIFTS | Equal Gifts

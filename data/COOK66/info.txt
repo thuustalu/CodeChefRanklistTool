@@ -1,0 +1,15 @@
+﻿Title: CodeChef January Cook-Off 2016
+Begin Time: 2016-01-24 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest January Cook-Off 2016 (COOK66) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+DESTROY | Chef and Destruction
+PALSTR | Chef And Palindromes
+MXSM | Chef and Maximum Sum Matrices 
+CFTREE | Chef And Fibonacci Tree
+FRUITS | Chef and Fruits

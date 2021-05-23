@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-off Challenge
+Begin Time: 2011-03-20 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest March Cook-off Challenge (COOK08) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+EXPCOMM | Exponentiation Commutativity
+MONTRANS | Money Transformation
+PALIPALI | Palindrome Palindrome
+SNAKY | Snake Snaky
+GROUPING | Grouping Chefs

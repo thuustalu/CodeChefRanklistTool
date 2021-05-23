@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-Off 2018 Division 1
+Begin Time: 2018-08-19 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2018 Division 1 (COOK97A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+GUZAC | GukiZ and Candies
+MIXGA | Mixi Game
+HACKFU | Hack Fulu
+NQNF | No Queries No Fun
+STTT | Standard Tree Task

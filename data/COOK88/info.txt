@@ -1,0 +1,15 @@
+﻿Title: CodeChef November Cook-Off 2017
+Begin Time: 2017-11-19 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest November Cook-Off 2017 (COOK88) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+PALHAM | Hasan and boring classes
+ADJLEAF | Adjacent leaves
+SKIING | Skiing
+ONCHESS | Online Chess
+RNDPAIR | Random Pair

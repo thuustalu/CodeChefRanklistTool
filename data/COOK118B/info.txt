@@ -1,0 +1,16 @@
+﻿Title: CodeChef May Cook-Off 2020 Division 2
+Begin Time: 2020-05-24 19:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest May Cook-Off 2020 Division 2 (COOK118B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 4215, top 2000 are shown.
+
+Enter problems in THIS order:
+CHEFRECP | Chef and Recipe
+CHFIMPRS | Impressing Chefina
+CHEFSHIP | Chef, Chefina and Their Friendship
+CHEFSQUD | Chefland Squads and the Army Chief
+CROADS | Roads in Chefland

@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-Off 2014
+Begin Time: 2014-03-23 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest March Cook-Off 2014 (COOK44) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+DIVGAME | Game of Divisors
+ABCSTR | ABC-Strings
+MINXOR | XOR Minimization
+PALIN3 | 3-Palindromes
+DIVIDING | Dividing Stamps

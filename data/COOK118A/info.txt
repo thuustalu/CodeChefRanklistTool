@@ -1,0 +1,15 @@
+﻿Title: CodeChef May Cook-Off 2020 Division 1
+Begin Time: 2020-05-24 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest May Cook-Off 2020 Division 1 (COOK118A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CHEFSHIP | Chef, Chefina and Their Friendship
+CHEFSQUD | Chefland Squads and the Army Chief
+CHEFTRIP | Chefina on a Trip
+CROADS | Roads in Chefland
+CURSQURS | Curious Queries

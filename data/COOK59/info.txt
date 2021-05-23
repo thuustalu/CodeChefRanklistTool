@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2015
+Begin Time: 2015-06-21 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2015 (COOK59) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ANKGAME | Ankit, Srijan and a game of stone piles
+ANKNIM2 | Bored of Nim
+ANKMARKS | VS and his marking scheme
+ANKPAREN | Longest non regular parentheses sub-sequence
+UTMOPR | Strange operations

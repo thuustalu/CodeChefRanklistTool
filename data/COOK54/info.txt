@@ -1,0 +1,15 @@
+﻿Title: CodeChef January Cook-Off 2015
+Begin Time: 2015-01-18 18:00:00
+Length: 03:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest January Cook-Off 2015 (COOK54) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ANUBTG | Suraj goes shopping
+ANUTHM | Tojo hates probabilities
+ANUAAA | Anup at Amrithapuri
+ANURRZ | Random Rudreshwar
+ANUAHR | Abhijeet and rectangles

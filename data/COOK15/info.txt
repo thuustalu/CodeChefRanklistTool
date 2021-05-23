@@ -1,0 +1,15 @@
+﻿Title: CodeChef October Cook-off
+Begin Time: 2011-10-23 19:00:00
+Length: 02:45:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest October Cook-off (COOK15) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+GENARSEQ | Generalized Arithmetic Progression Free Sequence
+PERMDIG | Permute Digits
+LAMQUGAM | Lame Queen Game
+NONPALIN | First non-Palindrome
+TRAVELER | Chef Travel Routes

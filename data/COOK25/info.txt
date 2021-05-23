@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-Off 2012
+Begin Time: 2012-08-19 18:30:00
+Length: 03:20:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2012 (COOK25) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+UNFRIEND | Rebuilding Byteland
+CHEFPASS | Codechef Password Recovery
+YNOUTPUT | Forced Output
+NOCODING | Code Crazy Minions
+LEBINARY | Asmany Number Verification

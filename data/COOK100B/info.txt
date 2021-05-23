@@ -1,0 +1,15 @@
+﻿Title: CodeChef November Cook-Off 2018 Division 2
+Begin Time: 2018-11-18 18:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest November Cook-Off 2018 Division 2 (COOK100B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+DATAPIPE | Data Pipelines
+TRUEDARE | Truth and Dare
+BEAUTGAR | Beautiful Garland
+ABGAME | A-B Game
+TREEUNAT | Tree Unattractiveness

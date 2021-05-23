@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2014
+Begin Time: 2014-06-22 19:00:00
+Length: 03:15:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2014 (COOK47) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+WTHINGS | Where the Wild Things Are
+FLAGS | Counting Flags
+KNPSK | Knapsack Problem
+PNTNG | Painting
+IDOLS | Idols and Fans

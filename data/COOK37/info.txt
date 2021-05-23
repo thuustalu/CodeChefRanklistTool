@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-Off 2013
+Begin Time: 2013-08-18 19:00:00
+Length: 02:55:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2013 (COOK37) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+DFSGRID | Chef and The Recursive Algorithm
+GRIDCOL | Chef and The Colored Grid
+RIGHTRI | Chef and The Right Triangles
+DIVQUERY | Chef and The Divisibility Queries
+STRDIG | Chef and The String of Digits

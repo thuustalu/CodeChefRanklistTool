@@ -1,0 +1,15 @@
+﻿Title: CodeChef February Cook-Off 2020 Division 2
+Begin Time: 2020-02-16 18:00:02
+Length: 1.18:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest February Cook-Off 2020 Division 2 (COOK115B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CYCLCSUM | Maximum Subsequence Sum
+XORGM | XOR Game
+PEPPERA | Chef and Pepperoni Pizza Again
+PSHOT | Penalty Shoot-Out II
+SLAB | Tax Slabs

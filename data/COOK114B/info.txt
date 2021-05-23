@@ -1,0 +1,16 @@
+﻿Title: CodeChef January Cook-Off 2020 Division 2
+Begin Time: 2020-01-19 18:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest January Cook-Off 2020 Division 2 (COOK114B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 3207, top 2000 are shown.
+
+Enter problems in THIS order:
+CHFCHK | Chef Chick
+EXAMCHT | Exam Cheating
+PRT | Profitable Paths
+RGAND | Range AND
+CFINASUM | Chefina and Sums

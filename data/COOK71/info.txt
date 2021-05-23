@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2016
+Begin Time: 2016-06-26 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2016 (COOK71) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+STICKS | Sticks
+RIGHTTRI | Right Triangle
+CAKECUT | Cutting Cake
+CHEFLAND | Chef Land
+ANDMIN | Range Minimum Queries 

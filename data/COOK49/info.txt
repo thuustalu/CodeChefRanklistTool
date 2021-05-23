@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-Off 2014
+Begin Time: 2014-08-24 19:00:00
+Length: 02:50:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2014 (COOK49) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TREEGAME | Tree Game
+PERMSUFF | Permutation Shuffle
+SHOOTING | Shooting
+TREERGB | Paint the Tree
+CNTDIGIT | Count Digits

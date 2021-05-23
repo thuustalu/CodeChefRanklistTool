@@ -1,0 +1,15 @@
+﻿Title: CodeChef The November CookOff
+Begin Time: 2010-11-27 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest The November CookOff (COOK04) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+COOKOFF | Choosing Cook Off Problems
+KNIGHTS | N Knights Problem
+LIFE | One Dimensional Game of Life
+SOCIAL | Dinner Party Socializing
+RECIPE | Cutting Recipes

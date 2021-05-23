@@ -1,0 +1,15 @@
+﻿Title: CodeChef September Cook-Off 2013
+Begin Time: 2013-09-22 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest September Cook-Off 2013 (COOK38) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+RRMATRIX | Strange Matrix
+RRGAME | Game
+RRTREE | Tree
+RRCODE | Code
+RRBIGNUM | Big Number

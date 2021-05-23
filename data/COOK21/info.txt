@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Cook-Off 2012
+Begin Time: 2012-04-22 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off 2012 (COOK21) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TRAINING | Selection for Training Camps
+BESTBATS | Top Batsmen
+PAINTING | Crease Painting
+RESIST | Resistance
+TMRATING | Best Buggy Ratings

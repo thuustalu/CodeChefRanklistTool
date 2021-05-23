@@ -1,0 +1,15 @@
+﻿Title: CodeChef December Cook-off 2013
+Begin Time: 2013-12-22 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest December Cook-off 2013 (COOK41) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+GERALD3 | Chef and Substrings
+GERALD03 | Chef Goes Through Segments
+GERALD04 | Chef and Girlfriend
+GERALD05 | Chef and Combinatorics
+GERALD06 | Chef and Strange Graph

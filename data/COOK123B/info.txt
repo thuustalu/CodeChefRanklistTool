@@ -1,0 +1,17 @@
+﻿Title: CodeChef October Cook-Off 2020 Division 2
+Begin Time: 2020-10-18 19:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest October Cook-Off 2020 Division 2 (COOK123B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 4494, top 2000 are shown.
+
+Enter problems in THIS order:
+SPLITIT | Split the Str Ing
+DECREM | Decreasing Srrnmieeda
+PATHSUMS | Path-etic Sums
+INVERACT | An Inveractive Problem
+XOXO | The In-XOR-able Task
+DIANE | Yet Another Crossover Episode

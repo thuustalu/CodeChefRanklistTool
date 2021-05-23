@@ -1,0 +1,15 @@
+﻿Title: CodeChef May Cook-Off 2014
+Begin Time: 2014-05-18 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest May Cook-Off 2014 (COOK46) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ANUSAR | Substrings and Repetitions
+ANUBGC | Book Game with Chef
+ANUDTC | Divide the Cake
+ANUUND | Ups and Downs
+ANUBTT | Build the Tree

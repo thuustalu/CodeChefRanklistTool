@@ -1,0 +1,15 @@
+﻿Title: CodeChef March Cook-Off 2019 Division 2
+Begin Time: 2019-03-24 18:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest March Cook-Off 2019 Division 2 (COOK104B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+NBONACCI | XOR N-bonacci Sequence
+CATSRATS | Cats and Rats
+UCL | UEFA Champions League
+MARCAPS | Markers and Caps
+SONGSHOP | Music Shopping

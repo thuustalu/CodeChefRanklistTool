@@ -1,0 +1,16 @@
+﻿Title: CodeChef September Mega Cook-Off 2018 Division 2
+Begin Time: 2018-09-23 19:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest September Mega Cook-Off 2018 Division 2 (COOK98B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 3336, top 2000 are shown.
+
+Enter problems in THIS order:
+OETW | OneTwo
+UPDOTR | Learning Dishes
+ATM2 | ATM Machine
+MAKPERM | Make a Permutation
+GHVSSI | Ghayeeth vs Siroj

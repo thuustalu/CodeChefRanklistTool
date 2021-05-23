@@ -1,0 +1,16 @@
+﻿Title: CodeChef July Cook-Off 2014
+Begin Time: 2014-07-20 19:00:00
+Length: 03:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2014 (COOK48) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 2022, top 2000 are shown.
+
+Enter problems in THIS order:
+RRCOPY | Copy-Paste
+RRDAG | Present for Andrii
+RRSUM | Sum Queries
+RRTREE2 | Tree Again
+RRFRNDS | Friends

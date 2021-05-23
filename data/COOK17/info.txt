@@ -1,0 +1,15 @@
+﻿Title: CodeChef December Cook-Off
+Begin Time: 2011-12-18 18:00:00
+Length: 02:40:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest December Cook-Off (COOK17) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CIEL8STR | Ciel and New Menu
+CIELQUIZ | Ciel and Quiz Game
+CIELAB | Ciel and A-B Problem
+CIELBTL | Ciel and Battle Arena
+CIELWALK | Ciel and Random Walk

@@ -1,0 +1,17 @@
+﻿Title: CodeChef July Cook-Off 2020 Division 2
+Begin Time: 2020-07-19 19:00:02
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2020 Division 2 (COOK120B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 7882, top 2000 are shown.
+
+Enter problems in THIS order:
+BOJACK | What Is This, a Crossover Episode
+TOTEM | MEX-ception
+XORCIST | The In-XOR-able Task
+EVENTUAL | Even-tual Reduction
+ORTHODOX | OR-thodox Distinction
+PATHETIC | Path-etic Products

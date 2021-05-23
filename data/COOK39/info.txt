@@ -1,0 +1,15 @@
+﻿Title: CodeChef October Cook-Off 2013
+Begin Time: 2013-10-20 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest October Cook-Off 2013 (COOK39) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+PPLUCKY | Polo the Penguin and the Lucky String
+PPNUM | Polo the Penguin and the Numbers
+PPTEST | Polo the Penguin and the Test
+PPXOR | Polo the Penguin and the XOR
+PPTREE | Polo the Penguin and the Tree

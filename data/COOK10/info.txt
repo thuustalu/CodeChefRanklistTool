@@ -1,0 +1,15 @@
+﻿Title: CodeChef May Cook-off 2011
+Begin Time: 2011-05-29 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest May Cook-off 2011 (COOK10) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TIDRICE | Popular Rice Recipe
+BIGPIZA | Socializing Game around Pizza
+PACKBAND | Packing the Golden Triangles
+EQIDLIS | Distribute idlis Equally
+CKSCHOOL | Preferred Cooking Schools

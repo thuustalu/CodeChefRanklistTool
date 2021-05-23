@@ -1,0 +1,16 @@
+﻿Title: CodeChef May Cook-off 2018 Division 2
+Begin Time: 2018-05-20 19:00:00
+Length: 02:30:02
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest May Cook-off 2018 Division 2 (COOK94B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 2414, top 2000 are shown.
+
+Enter problems in THIS order:
+CHEFTRVL | Difficult Choice
+CHEFLMN | Delivery Problems
+KMXOR | Best Cake Ever
+CHEFRUN | Secret Recipe
+CHEFLAKE | Searching for the Recipe

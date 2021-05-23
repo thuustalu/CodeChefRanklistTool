@@ -1,0 +1,15 @@
+﻿Title: CodeChef October Cook-Off 2012
+Begin Time: 2012-10-21 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest October Cook-Off 2012 (COOK27) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+BUYING2 | Buying Sweets
+EQUALIZ | Equalization
+REARRAN | Rearrangement
+TOURNAM | Tennis Tournament
+TREEFUN | Tree Fun

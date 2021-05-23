@@ -1,0 +1,15 @@
+﻿Title: CodeChef May Cook-off 2013
+Begin Time: 2013-05-19 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest May Cook-off 2013 (COOK34) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+AMROOK | Rook Placement
+AMXOR | XOR Sum
+AMSGAME1 | Subtraction Game 1
+AMSGAME2 | Subtraction Game 2
+AMSEQT | Sequence Transmission

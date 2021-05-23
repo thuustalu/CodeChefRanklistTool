@@ -1,0 +1,15 @@
+﻿Title: CodeChef May Cook-Off 2019 Division 2
+Begin Time: 2019-05-19 19:00:00
+Length: 02:32:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest May Cook-Off 2019 Division 2 (COOK106B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+REACTION | Chain Reaction
+GCDSET | Misha and Nice Sets
+EXPXOR | Expected Xor
+RECVSEQ | Recover the Sequence
+BICLIQUE | Searching for a Biclique

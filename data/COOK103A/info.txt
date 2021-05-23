@@ -1,0 +1,15 @@
+﻿Title: CodeChef February Cook-Off 2019 Division 1
+Begin Time: 2019-02-17 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest February Cook-Off 2019 Division 1 (COOK103A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+MAXREMOV | Max Range Queries
+SECPASS | Chef and Secret Password
+TWOARR | The Most Amazing Dish
+EVILAND | Chef in Evil Land
+CHFPARTY | Chef and Party

@@ -1,0 +1,15 @@
+﻿Title: CodeChef October Cook-Off 2016
+Begin Time: 2016-10-23 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest October Cook-Off 2016 (COOK75) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+UGLYF | Sherlock and the Ugly Flower
+PERMEXIS | Watson asks Does Permutation Exist
+COUNTWAY | Sherlock Counts Ways
+BOOKCHEF | ChefWatson uses Social Network
+SWINDOW | Sherlock and Smallest Window

@@ -1,0 +1,15 @@
+﻿Title: CodeChef January Cook-off 2014
+Begin Time: 2014-01-19 18:00:00
+Length: 03:15:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest January Cook-off 2014 (COOK42) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CAKE1AM | Chef and the Cake I
+CAKE2AM | Chef and the Cake II
+ORDERAAM | Chef and the Orders
+GAMEAAM | Subtraction Game
+GANGAAM | Interrogating Gangsters

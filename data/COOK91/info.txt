@@ -1,0 +1,16 @@
+﻿Title: CodeChef February Cook-Off 2018
+Begin Time: 2018-02-18 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest February Cook-Off 2018 (COOK91) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 3308, top 2000 are shown.
+
+Enter problems in THIS order:
+CCOOK | Chef and Cook-Off
+CTHREE | Chef and Tuples
+CSUBSEQ | Chef and Chefness
+CARRAY | Chef and Line
+CTREE | Chef and Chefcoin

@@ -1,0 +1,15 @@
+﻿Title: CodeChef November Cook-off 2013
+Begin Time: 2013-11-17 18:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest November Cook-off 2013 (COOK40) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+AMIFIB | Am I a Fibonacci Number
+LOWSUM | Lowest Sum
+NUMPATH | Number of Paths
+TRSUBTR | Trees and Subtrees
+NEXTNUM | Rank of the Number

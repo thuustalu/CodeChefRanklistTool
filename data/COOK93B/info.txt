@@ -1,0 +1,15 @@
+﻿Title: CodeChef April Cook-off 2018 Division 2
+Begin Time: 2018-04-22 19:00:00
+Length: 02:30:02
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest April Cook-off 2018 Division 2 (COOK93B) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+RUNDIR | Run Direction
+CUTBOARD | Cut the Board
+BINIM | Binary Nim
+PWNCHESS | Pawn Chess
+CHEFGORO | Chef Goro

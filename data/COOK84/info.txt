@@ -1,0 +1,15 @@
+﻿Title: CodeChef July Cook-Off 2017
+Begin Time: 2017-07-23 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2017 (COOK84) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+CHNGOR | Chang and Bitwise OR
+CHNGFUNC | Chang and the Perfect Function
+CHNGSUM | Chang and Perfect Quadruples
+CHNGSEQ | Chang and Beautiful Sequences
+BIPARTRE | Bipartite Graph from Trees

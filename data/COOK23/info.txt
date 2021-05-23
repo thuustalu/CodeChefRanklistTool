@@ -1,0 +1,15 @@
+﻿Title: CodeChef June Cook-Off 2012
+Begin Time: 2012-06-17 19:00:00
+Length: 02:55:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest June Cook-Off 2012 (COOK23) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TWTCLOSE | Closing the Tweets
+NOKIA | Connecting Soldiers
+GROWGOLD | Golden Trees
+OLYMPIC | Gifts at Olympics
+DOWNLOAD | Alien Chefs

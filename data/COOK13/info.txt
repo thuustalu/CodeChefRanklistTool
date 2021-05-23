@@ -1,0 +1,15 @@
+﻿Title: CodeChef August Cook-off 2011
+Begin Time: 2011-08-21 19:00:00
+Length: 02:30:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 1200
+Partial Score: Disable
+Description: CodeChef contest August Cook-off 2011 (COOK13) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+NDLVOTE | Vote for the Noodle Soup
+DRAGNXOR | Open the Dragon Scroll
+ROTSTRNG | Rotate the String
+KCHIPS | Angry Chef - Crispy Chips
+TKCHOCS | Collect the Chocolate Chips
