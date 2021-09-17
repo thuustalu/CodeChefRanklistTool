@@ -1,0 +1,17 @@
+﻿Title: CodeChef August Cook-Off 2021 Division 1
+Begin Time: 2021-08-22 19:00:00
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest August Cook-Off 2021 Division 1 (COOK132A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ODDARY | Odd Array
+DIFSTR | Different String
+MAXJMP | Maximum Tree Jumps
+C2C | Chef 2 Chef
+INTEREQ | Interactive Equivalency
+CLEARARR | Clear the Array
+CONSSTR | Construct a String

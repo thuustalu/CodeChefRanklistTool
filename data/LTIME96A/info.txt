@@ -1,0 +1,16 @@
+﻿Title: CodeChef May Lunchtime 2021 Division 1
+Begin Time: 2021-05-31 17:30:00
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest May Lunchtime 2021 Division 1 (LTIME96A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+TRTOKENS | Tokens On A Tree
+PARTODD | Odd Sum Partition
+INTMST | Interactive MST
+SIMARRAY | Similar Arrays
+NUMCOMP1 | Total Components
+CHESUB | K-Subarrays

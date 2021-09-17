@@ -1,0 +1,18 @@
+﻿Title: CodeChef July Cook-Off 2021 Division 3
+Begin Time: 2021-07-28 17:30:04
+Length: 02:45:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest July Cook-Off 2021 Division 3 (COOK131C) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 8434, top 2000 are shown.
+
+Enter problems in THIS order:
+CHFPLN | Chef In Infinite Plane
+CHFGCD | Chef and GCD
+BEAUSUB | Beautiful Subsequence
+XORORED | XOR-ORED
+MODEQUAL | Mod Equality
+SHOEFIT | Shoe Fit
+COLRGRPH | Hidden Colored Graph

@@ -1,0 +1,17 @@
+﻿Title: CodeChef April Cook-Off 2021 Division 3
+Begin Time: 2021-04-18 19:00:04
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off 2021 Division 3 (COOK128C) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+The ranklist is TRUNCATED. The actual number of participants was 9967, top 2000 are shown.
+
+Enter problems in THIS order:
+BUILDB | Bodybuilder
+PSGRADE | Passing Marks
+TDISTS | Tree Distances
+OROFAND | OR of ANDs
+CM164364 | Chocolate Monger
+DELSORT | Deletion Sort

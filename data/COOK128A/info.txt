@@ -1,0 +1,17 @@
+﻿Title: CodeChef April Cook-Off 2021 Division 1
+Begin Time: 2021-04-18 19:00:00
+Length: 03:00:00
+Rank rule: Customized
+Total penalty: Sum
+Penalty(s): 600
+Partial Score: Disable
+Description: CodeChef contest April Cook-Off 2021 Division 1 (COOK128A) as it was originally held. Problems are in the order they are displayed in the CodeChef ranklist, not necessarily in the order of difficulty. Only problems that were rated for this division are included. 
+
+Enter problems in THIS order:
+ARRAYOPS | Array and Operations
+SANITIZE | Low Budget Sanitization
+TDISTS | Tree Distances
+OROFAND | OR of ANDs
+VALET | Valet Parking
+SUMGCD | GCD Sums
+DELSORT | Deletion Sort
